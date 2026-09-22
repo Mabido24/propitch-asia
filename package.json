@@ -1,0 +1,11 @@
+{
+  "name": "propitch-asia",
+  "private": true,
+  "scripts": {
+    "gate:i18n": "node scripts/gate-i18n.js",
+    "ops:check-no-bom": "node scripts/check-no-bom.js",
+    "gate": "npm run ops:check-no-bom && npm run gate:i18n",
+    "i18n:build": "node scripts/build-i18n.js",
+    "i18n:translate": "node scripts/auto-translate-all.js"
+  }
+}

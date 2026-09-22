@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "title": "ProPitch Asia——连接精英足球与东南亚",
+    "description": "ProPitch Asia 通过咨询、国际巡演、企业和优质体验（设施、途径以及与该地区建立的合作伙伴关系）将欧洲精英足球与东南亚联系起来。",
+    "ogDescription": "咨询、国际运营、企业和经验——东南亚足球发展基础设施。"
+  },
+  "lang": {
+    "label": "语言",
+    "names": {
+      "en": "English",
+      "fr": "Français",
+      "de": "Deutsch",
+      "it": "Italiano",
+      "es": "Español",
+      "pt": "Português",
+      "th": "ไทย",
+      "ru": "Русский",
+      "zh": "中文",
+      "ar": "العربية"
+    }
+  },
+  "nav": {
+    "brand": "亚洲推介会",
+    "kickoff": "0′ 开球",
+    "advisory": "25分钟咨询",
+    "international": "50 分钟国际",
+    "ventures": "65' 风险投资",
+    "experiences": "80 分钟的体验",
+    "fulltime": "90 分钟全职"
+  },
+  "hero": {
+    "eyebrow": "公司机密概述",
+    "titleHtml": "连接<br>精英足球<br>与东南亚。</em>",
+    "badge": "精英足球。 区域机会。",
+    "scroll": "滚动查看开球"
+  },
+  "whyAsia": {
+    "eyebrow": "为什么选择东南亚",
+    "title": "建设亚洲足球的未来。",
+    "p1": "东南亚对欧洲足球迷的重视程度已经过高——它只是从外部观看。 ProPitch Asia 的存在就是为了将观众转化为基础设施：与该地区共同建设的设施、通道、合作伙伴关系和节目，而不是出售给该地区。",
+    "p2": "我们的工作涵盖四个部门——咨询、国际运营、风险投资和体验——因此俱乐部、联合会或投资者可以通过任何符合其野心的大门进入该地区。",
+    "stat1Lbl": "泰国、马来西亚、印度尼西亚、菲律宾、越南和新加坡的球迷",
+    "stat1Src": "尼尔森粉丝洞察",
+    "stat2Lbl": "2021/22 赛季该地区累计英超联赛电视观众人数",
+    "stat2Src": "尼尔森",
+    "stat3Lbl": "每场英超比赛都会在六个东南亚市场现场直播",
+    "stat3Src": "尼尔森，2022",
+    "stat4Lbl": "东盟人口总和——年轻、移动优先、懂足球",
+    "stat4Src": "联合国/东盟的估计"
+  },
+  "advisory": {
+    "eyebrow": "推介咨询",
+    "title": "设施和足球发展咨询",
+    "intro": "从世界一流的球场到世界一流的合作伙伴关系——我们为俱乐部、联合会和投资者提供精英足球赖以建立的基础设施和途径的建议。",
+    "tag1": "// 总体规划",
+    "h1": "宣传和培训设施设计",
+    "p1": "训练场和学院的表面规格、排水、泛光照明和技术区域布局。",
+    "tag2": "// 途径",
+    "h2": "学院课程和教练教育",
+    "p2": "为当地联合会建立的年龄组课程、教练许可途径和分期框架。",
+    "tag3": "// 遵守",
+    "h3": "许可和联盟合规性",
+    "p3": "俱乐部许可、青少年类别监管和亚足联/地区机构合规支持。",
+    "tag4": "// 人才 ID",
+    "h4": "侦察网络建设",
+    "p4": "招聘团队的区域人才识别系统、试用结构和数据管道。",
+    "tag5": "// 合作伙伴",
+    "h5": "合作伙伴和赞助顾问",
+    "p5": "构建俱乐部、球衣和冠名赞助商的合作伙伴关系，并将区域品牌与整个地区合适的足球资产联系起来。"
+  },
+  "international": {
+    "eyebrow": "普锐国际",
+    "title": "俱乐部之旅、训练营和表演赛",
+    "intro": "在世界足球与亚洲相遇的地方——我们逐个市场地规划和实施实地计划。",
+    "onTour": "巡演中",
+    "tourKicker": "旅游",
+    "tourTitle": "季前俱乐部之旅",
+    "tourDesc": "多城市行程以及向当地学院开放的培训课程。",
+    "tourMeta": "3–5 个城市 · 7–10 天",
+    "campKicker": "营",
+    "campTitle": "精英青少年营",
+    "campDesc": "联合会认可的训练营遵循客队俱乐部自己的教练课程。",
+    "campMeta": "5 个市场·全年",
+    "exhbKicker": "乙肝",
+    "exhbTitle": "表演赛和传奇比赛",
+    "exhbDesc": "体育场合作伙伴关系、比赛日运营和转播协调。",
+    "exhbMeta": "单城·售票",
+    "schlKicker": "夏尔",
+    "schlTitle": "学校及基层外展",
+    "schlDesc": "每次巡演、露营和展览期间都会举办社区活动。",
+    "schlMeta": "进行中"
+  },
+  "ventures": {
+    "eyebrow": "投资项目",
+    "title": "项目、合作伙伴关系和投资",
+    "intro": "足球发展无国界——业务的交易流方面，从设施合资企业到格式知识产权。",
+    "v1Title": "训练场合资企业",
+    "v1Desc": "与当地土地所有者和联合会一起开发设施",
+    "v1Status": "架构",
+    "v2Title": "广播和媒体权利结构",
+    "v2Desc": "俱乐部和格式内容的区域版权包装",
+    "v2Status": "积极的",
+    "v3Title": "地区俱乐部和学院的少数股权",
+    "v3Desc": "与运营合作伙伴一起的长期资本",
+    "v3Status": "评估",
+    "v4Title": "格式IP——东盟足球明星狩猎",
+    "v4Desc": "人才搜寻电视格式，请参阅下面的经验",
+    "v4Status": "积极的"
+  },
+  "experiences": {
+    "eyebrow": "推介经验",
+    "title": "活动和优质足球节目",
+    "intro": "观众与比赛相遇的地方——比赛日招待、节日和我们的旗舰区域赛制。",
+    "flagshipTag": "旗舰格式",
+    "conceptEyebrow": "保密概念·正在开发中",
+    "starHuntTitleHtml": "东盟足球<br>追星",
+    "starHuntDesc": "一个俱乐部。 五国。 东南亚下一位职业足球运动员的现场搜寻——在该地区提供的最大舞台上结束。",
+    "chipThailand": "泰国",
+    "chipMalaysia": "马来西亚",
+    "chipIndonesia": "印度尼西亚",
+    "chipPhilippines": "菲律宾",
+    "chipVietnam": "越南",
+    "chipFinal": "决赛·新加坡",
+    "prog1Title": "优质比赛日招待",
+    "prog1Desc": "为该地区最大赛事的合作伙伴和赞助商策划比赛日计划。",
+    "prog2Title": "草根节日",
+    "prog2Desc": "多俱乐部社区节日与旅游、露营和学院合作伙伴一起举办。",
+    "prog3Title": "教练和球探交流",
+    "prog3Desc": "短期安置将地区教练人员与欧洲的合作伙伴学院联系起来。"
+  },
+  "contact": {
+    "eyebrow": "90′ · 全日制",
+    "titleHtml": "让我们<br>来进行宣传吧。",
+    "intro": "无论是设施总体规划、旅游行程、合作伙伴关系还是下一季的《猎星》——告诉我们哪个部门适合，我们就会从那里开始。",
+    "ctaEmail": "发送电子邮件至 Hello@PROPITCH.ASIA",
+    "ctaBack": "回到开球",
+    "faqEyebrow": "常见问题",
+    "faq1Q": "什么是 ProPitch Asia？",
+    "faq1A": "总部位于曼谷的集团将欧洲精英足球与东南亚联系起来——设施、途径、合作伙伴关系和项目都是与该地区共同建设的，而不是出售给该地区。",
+    "faq2Q": "四大部门是什么？",
+    "faq2A": "咨询（设施和开发咨询）、国际（旅游、训练营、表演赛）、风险投资（合作伙伴关系和投资）以及体验（活动和优质项目）。",
+    "faq3Q": "它是给谁用的？",
+    "faq3A": "俱乐部、联合会、投资者和品牌寻求在咨询、运营、交易流程或面向球迷的节目方面结构化地进入东南亚足球。",
+    "faq4Q": "我们如何取得联系？",
+    "faq4Html": "发送电子邮件至 <a href=\"mailto:hello@propitch.asia\">hello@propitch.asia</a> 并命名与您的简介相符的部门。",
+    "companyEyebrow": "普锐亚洲有限公司",
+    "phone": "+66 [办公热线 — 发布前更新]",
+    "linkedin": "[ LinkedIn — 实时添加 URL ]",
+    "office": "注册办事处，泰国曼谷"
+  },
+  "footer": {
+    "motto": "足球发展无国界。",
+    "divisions": "咨询·国际·风险·经验·© PROPITCH ASIA CO., LTD."
+  },
+  "schemaJson": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://propitch-asia.pages.dev/#organization",
+        "name": "ProPitch Asia Co., Ltd.",
+        "url": "https://propitch-asia.pages.dev/",
+        "email": "hello@propitch.asia",
+        "description": "ProPitch Asia connects elite football with Southeast Asia through advisory, international operations, ventures and premium experiences.",
+        "areaServed": [
+          "Thailand",
+          "Southeast Asia"
+        ],
+        "knowsAbout": [
+          "Football development",
+          "Sports facilities",
+          "Club tours",
+          "Football partnerships",
+          "Southeast Asia"
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://propitch-asia.pages.dev/#website",
+        "url": "https://propitch-asia.pages.dev/",
+        "name": "ProPitch Asia",
+        "publisher": {
+          "@id": "https://propitch-asia.pages.dev/#organization"
+        },
+        "inLanguage": "zh-Hans"
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://propitch-asia.pages.dev/#webpage",
+        "url": "https://propitch-asia.pages.dev/",
+        "name": "ProPitch Asia — Connecting elite football with Southeast Asia",
+        "isPartOf": {
+          "@id": "https://propitch-asia.pages.dev/#website"
+        },
+        "about": {
+          "@id": "https://propitch-asia.pages.dev/#organization"
+        },
+        "inLanguage": "zh-Hans",
+        "description": "Company overview: advisory, international, ventures and experiences divisions for football in Southeast Asia."
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://propitch-asia.pages.dev/#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is ProPitch Asia?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "ProPitch Asia is a Bangkok-based group that connects elite European football with Southeast Asia — turning regional fandom into infrastructure: facilities, pathways, partnerships and programming built with the region."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What divisions does ProPitch Asia operate?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Four divisions: ProPitch Advisory (facility and football-development consulting), ProPitch International (club tours, camps and exhibition matches), ProPitch Ventures (projects, partnerships and investments), and ProPitch Experiences (events and premium football programmes)."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Where does ProPitch Asia work?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The company is focused on Southeast Asia, with operations and partnerships across the region and a registered office in Bangkok, Thailand."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How can clubs or investors contact ProPitch Asia?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Email hello@propitch.asia with the division that fits your goals — advisory, international, ventures or experiences — and the team will follow up."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

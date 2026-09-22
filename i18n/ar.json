@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "title": "ProPitch Asia - ربط كرة القدم النخبوية بجنوب شرق آسيا",
+    "description": "تربط ProPitch Asia كرة القدم الأوروبية النخبة بجنوب شرق آسيا من خلال الجولات الاستشارية والدولية والمشاريع والتجارب المتميزة - المرافق والمسارات والشراكات المبنية مع المنطقة.",
+    "ogDescription": "الاستشارات والعمليات الدولية والمشاريع والخبرات - البنية التحتية لتطوير كرة القدم في جنوب شرق آسيا."
+  },
+  "lang": {
+    "label": "لغة",
+    "names": {
+      "en": "English",
+      "fr": "Français",
+      "de": "Deutsch",
+      "it": "Italiano",
+      "es": "Español",
+      "pt": "Português",
+      "th": "ไทย",
+      "ru": "Русский",
+      "zh": "中文",
+      "ar": "العربية"
+    }
+  },
+  "nav": {
+    "brand": "حماية آسيا",
+    "kickoff": "0′ ركلة البداية",
+    "advisory": "25′ استشاري",
+    "international": "50′ دولي",
+    "ventures": "مشاريع 65′",
+    "experiences": "تجارب 80′",
+    "fulltime": "90 دقيقة بدوام كامل"
+  },
+  "hero": {
+    "eyebrow": "نظرة عامة سرية على الشركة",
+    "titleHtml": "ربط<br>كرة القدم النخبة<br>مع <em>جنوب شرق آسيا.</em>",
+    "badge": "النخبة لكرة القدم. فرصة إقليمية.",
+    "scroll": "قم بالتمرير لركلة البداية"
+  },
+  "whyAsia": {
+    "eyebrow": "لماذا جنوب شرق آسيا",
+    "title": "بناء مستقبل كرة القدم في آسيا.",
+    "p1": "إن منطقة جنوب شرق آسيا تبالغ بالفعل في تقدير جماهير كرة القدم الأوروبية، فهي تراقب من الخارج فقط. تم إنشاء ProPitch Asia لتحويل هذا الجمهور إلى بنية تحتية: مرافق ومسارات وشراكات وبرامج مبنية مع المنطقة بدلاً من بيعها فيها.",
+    "p2": "نحن نعمل عبر أربعة أقسام - الاستشارات والعمليات الدولية والمشاريع والخبرات - بحيث يمكن للنادي أو الاتحاد أو المستثمر دخول المنطقة من أي باب يناسب طموحاتهم.",
+    "stat1Lbl": "مشجعو كرة القدم في جميع أنحاء تايلاند وماليزيا وإندونيسيا والفلبين وفيتنام وسنغافورة",
+    "stat1Src": "رؤى مروحة نيلسن",
+    "stat2Lbl": "إجمالي مشاهدي الدوري الإنجليزي الممتاز عبر المنطقة، موسم 2021/22",
+    "stat2Src": "نيلسن",
+    "stat3Lbl": "يتم بث كل مباراة في الدوري الإنجليزي الممتاز مباشرة عبر أسواق جنوب شرق آسيا الستة",
+    "stat3Src": "نيلسن، 2022",
+    "stat4Lbl": "مجموع السكان في جميع أنحاء رابطة دول جنوب شرق آسيا - الشباب، المتنقلون أولاً، والمثقفون بكرة القدم",
+    "stat4Src": "تقديرات الأمم المتحدة / رابطة أمم جنوب شرق آسيا"
+  },
+  "advisory": {
+    "eyebrow": "استشارة الملكية",
+    "title": "استشارات المرافق وتطوير كرة القدم",
+    "intro": "من الملاعب ذات المستوى العالمي إلى الشراكات ذات المستوى العالمي - نقدم المشورة للأندية والاتحادات والمستثمرين بشأن البنية التحتية والمسارات التي بنيت عليها كرة القدم النخبة.",
+    "tag1": "// التخطيط الرئيسي",
+    "h1": "تصميم الملعب ومرافق التدريب",
+    "p1": "مواصفات السطح والصرف والإضاءة الكاشفة وتخطيط المنطقة الفنية لأراضي التدريب والأكاديميات.",
+    "tag2": "// الممرات",
+    "h2": "مناهج الأكاديمية وتعليم المدربين",
+    "p2": "مناهج الفئات العمرية، ومسارات ترخيص المدربين، وأطر التقسيم الدوري المصممة للاتحادات المحلية.",
+    "tag3": "// امتثال",
+    "h3": "الترخيص والامتثال للاتحاد",
+    "p3": "ترخيص الأندية وتنظيم فئات الشباب ودعم الامتثال للاتحاد الآسيوي/الهيئات الإقليمية.",
+    "tag4": "// معرف الموهبة",
+    "h4": "بناء شبكة الكشافة",
+    "p4": "أنظمة تحديد المواهب الإقليمية، والهياكل التجريبية وخطوط البيانات لفرق التوظيف.",
+    "tag5": "// الشراكات",
+    "h5": "مستشارو الشراكة والرعاية",
+    "p5": "هيكلة شراكات الأندية والأطقم والجهات الراعية للألقاب، وربط العلامات التجارية الإقليمية بخصائص كرة القدم المناسبة في جميع أنحاء المنطقة."
+  },
+  "international": {
+    "eyebrow": "بروبيتش الدولية",
+    "title": "جولات النادي والمعسكرات والمباريات الاستعراضية",
+    "intro": "حيث تلتقي كرة القدم العالمية بآسيا - نحن نخطط ونقدم البرنامج على أرض الواقع، سوقًا تلو الأخرى.",
+    "onTour": "في جولة",
+    "tourKicker": "رحلة",
+    "tourTitle": "جولات النادي قبل الموسم",
+    "tourDesc": "رحلات متعددة المدن مع دورات تدريبية مفتوحة للأكاديميات المحلية.",
+    "tourMeta": "3-5 مدن · 7-10 أيام",
+    "campKicker": "مخيم",
+    "campTitle": "معسكرات شباب النخبة",
+    "campDesc": "تخضع المعسكرات المعتمدة من الاتحاد لمناهج التدريب الخاصة بالنادي الزائر.",
+    "campMeta": "5 أسواق · على مدار العام",
+    "exhbKicker": "EXHB",
+    "exhbTitle": "مباريات المعرض والأساطير",
+    "exhbDesc": "شراكات الملاعب وعمليات يوم المباراة وتنسيق البث.",
+    "exhbMeta": "مدينة واحدة · بتذكرة",
+    "schlKicker": "SCHL",
+    "schlTitle": "التوعية المدرسية والشعبية",
+    "schlDesc": "تقام الجلسات المجتمعية جنبًا إلى جنب مع كل جولة ومخيم ومعرض.",
+    "schlMeta": "مستمر"
+  },
+  "ventures": {
+    "eyebrow": "المشاريع العقارية",
+    "title": "المشاريع والشراكات والاستثمارات",
+    "intro": "تطوير كرة القدم بلا حدود - جانب تدفق الصفقات في الأعمال، بدءًا من المشاريع المشتركة للمنشأة وحتى تنسيق الملكية الفكرية.",
+    "v1Title": "التدريب على المشاريع المشتركة",
+    "v1Desc": "تطوير المرافق مع ملاك الأراضي والاتحادات المحلية",
+    "v1Status": "الهيكلة",
+    "v2Title": "هيكلة حقوق البث والإعلام",
+    "v2Desc": "تعبئة الحقوق الإقليمية لمحتوى النادي والتنسيق",
+    "v2Status": "نشيط",
+    "v3Title": "حصص الأقلية في الأندية والأكاديميات الإقليمية",
+    "v3Desc": "رأس المال طويل الأجل إلى جانب الشركاء التشغيليين",
+    "v3Status": "التقييم",
+    "v4Title": "تنسيق IP - مطاردة نجوم كرة القدم في آسيان",
+    "v4Desc": "تنسيق تلفزيون البحث عن المواهب، راجع الخبرات أدناه",
+    "v4Status": "نشيط"
+  },
+  "experiences": {
+    "eyebrow": "تجارب الملكية",
+    "title": "الأحداث وبرامج كرة القدم المتميزة",
+    "intro": "حيث يلتقي الجمهور باللعبة - ضيافة أيام المباريات والمهرجانات وشكلنا الإقليمي الرائد.",
+    "flagshipTag": "التنسيق الرئيسي",
+    "conceptEyebrow": "المفهوم السري · قيد التطوير",
+    "starHuntTitleHtml": "كرة القدم في آسيان<br>مطاردة النجوم",
+    "starHuntDesc": "نادي واحد. خمس دول. بحث مباشر عن لاعب كرة القدم المحترف التالي في جنوب شرق آسيا - وينتهي على أكبر مسرح تقدمه المنطقة.",
+    "chipThailand": "تايلاند",
+    "chipMalaysia": "ماليزيا",
+    "chipIndonesia": "أندونيسيا",
+    "chipPhilippines": "فيلبيني",
+    "chipVietnam": "فيتنام",
+    "chipFinal": "النهائي · سنغافورة",
+    "prog1Title": "ضيافة متميزة في أيام المباريات",
+    "prog1Desc": "برامج مباريات منسقة للشركاء والجهات الراعية عبر أكبر المباريات في المنطقة.",
+    "prog2Title": "المهرجانات الشعبية",
+    "prog2Desc": "تقام المهرجانات المجتمعية متعددة الأندية جنبًا إلى جنب مع الجولات والمعسكرات وشراكات الأكاديمية.",
+    "prog3Title": "تبادل المدربين والكشافة",
+    "prog3Desc": "وظائف قصيرة المدى تربط طاقم التدريب الإقليمي بالأكاديميات الشريكة في أوروبا."
+  },
+  "contact": {
+    "eyebrow": "90′ · دوام كامل",
+    "titleHtml": "دعونا نأخذ الملعب.",
+    "intro": "سواء كان ذلك مخططًا رئيسيًا للمنشأة، أو خط سير جولة، أو شراكة، أو الموسم التالي من Star Hunt - أخبرنا بالقسم المناسب، وسنتولى الأمر من هناك.",
+    "ctaEmail": "البريد الإلكتروني: HELLO@PROPITCH.ASIA",
+    "ctaBack": "العودة إلى ركلة البداية",
+    "faqEyebrow": "أسئلة متكررة",
+    "faq1Q": "ما هو ProPitch آسيا؟",
+    "faq1A": "مجموعة مقرها بانكوك تربط نخبة كرة القدم الأوروبية بجنوب شرق آسيا - مرافق ومسارات وشراكات وبرامج تم بناؤها مع المنطقة، ولا يتم بيعها فيها.",
+    "faq2Q": "ما هي الأقسام الأربعة؟",
+    "faq2A": "الاستشارات (استشارات المرافق والتطوير)، والدولية (الجولات والمخيمات والمعارض)، والمشاريع (الشراكات والاستثمارات)، والتجارب (الفعاليات والبرامج المتميزة).",
+    "faq3Q": "لمن هو؟",
+    "faq3A": "تسعى الأندية والاتحادات والمستثمرون والعلامات التجارية إلى دخول منظم إلى كرة القدم في جنوب شرق آسيا عبر الاستشارات أو العمليات أو تدفق الصفقات أو البرامج التي تواجه المشجعين.",
+    "faq4Q": "كيف نتواصل؟",
+    "faq4Html": "أرسل بريدًا إلكترونيًا إلى <a href=\"mailto:hello@propitch.asia\">hello@propitch.asia</a> وقم بتسمية القسم الذي يتوافق مع ملخصك.",
+    "companyEyebrow": "شركة بروبيتش آسيا المحدودة",
+    "phone": "+66 [ خط المكتب – التحديث قبل الإطلاق ]",
+    "linkedin": "[ LinkedIn - أضف عنوان URL عندما يكون مباشرًا ]",
+    "office": "المكتب المسجل، بانكوك، تايلاند"
+  },
+  "footer": {
+    "motto": "تطوير كرة القدم بلا حدود.",
+    "divisions": "الاستشارات · الدولية · المشاريع · الخبرات · © PROPITCH ASIA CO., LTD."
+  },
+  "schemaJson": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://propitch-asia.pages.dev/#organization",
+        "name": "ProPitch Asia Co., Ltd.",
+        "url": "https://propitch-asia.pages.dev/",
+        "email": "hello@propitch.asia",
+        "description": "ProPitch Asia connects elite football with Southeast Asia through advisory, international operations, ventures and premium experiences.",
+        "areaServed": [
+          "Thailand",
+          "Southeast Asia"
+        ],
+        "knowsAbout": [
+          "Football development",
+          "Sports facilities",
+          "Club tours",
+          "Football partnerships",
+          "Southeast Asia"
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://propitch-asia.pages.dev/#website",
+        "url": "https://propitch-asia.pages.dev/",
+        "name": "ProPitch Asia",
+        "publisher": {
+          "@id": "https://propitch-asia.pages.dev/#organization"
+        },
+        "inLanguage": "ar"
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://propitch-asia.pages.dev/#webpage",
+        "url": "https://propitch-asia.pages.dev/",
+        "name": "ProPitch Asia — Connecting elite football with Southeast Asia",
+        "isPartOf": {
+          "@id": "https://propitch-asia.pages.dev/#website"
+        },
+        "about": {
+          "@id": "https://propitch-asia.pages.dev/#organization"
+        },
+        "inLanguage": "ar",
+        "description": "Company overview: advisory, international, ventures and experiences divisions for football in Southeast Asia."
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://propitch-asia.pages.dev/#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is ProPitch Asia?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "ProPitch Asia is a Bangkok-based group that connects elite European football with Southeast Asia — turning regional fandom into infrastructure: facilities, pathways, partnerships and programming built with the region."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What divisions does ProPitch Asia operate?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Four divisions: ProPitch Advisory (facility and football-development consulting), ProPitch International (club tours, camps and exhibition matches), ProPitch Ventures (projects, partnerships and investments), and ProPitch Experiences (events and premium football programmes)."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Where does ProPitch Asia work?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The company is focused on Southeast Asia, with operations and partnerships across the region and a registered office in Bangkok, Thailand."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How can clubs or investors contact ProPitch Asia?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Email hello@propitch.asia with the division that fits your goals — advisory, international, ventures or experiences — and the team will follow up."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

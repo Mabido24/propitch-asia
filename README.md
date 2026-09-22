@@ -10,3 +10,11 @@ Static marketing site for ProPitch Asia — elite football connections in Southe
 ## Production
 
 Deployed on **Cloudflare Pages** from the `main` branch on GitHub.
+
+**Live:** https://propitch-asia.pages.dev/
+
+## i18n
+
+Languages: EN (default keys in `i18n/en.json`), FR, DE, IT, ES, PT, TH, RU, ZH, AR. Switcher in the top nav; `?lang=fr` supported.
+
+Quality gate: `npm run gate`

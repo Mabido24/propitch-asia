@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "title": "ProPitch Asia — เชื่อมโยงฟุตบอลชั้นนำกับเอเชียตะวันออกเฉียงใต้",
+    "description": "ProPitch Asia เชื่อมโยงฟุตบอลยุโรปชั้นนำเข้ากับเอเชียตะวันออกเฉียงใต้ผ่านการให้คำปรึกษา ทัวร์ต่างประเทศ การลงทุน และประสบการณ์ระดับพรีเมียม สิ่งอำนวยความสะดวก เส้นทาง และความร่วมมือที่สร้างขึ้นกับภูมิภาค",
+    "ogDescription": "การให้คำปรึกษา การดำเนินงานระหว่างประเทศ การลงทุน และประสบการณ์ — โครงสร้างพื้นฐานการพัฒนาฟุตบอลสำหรับเอเชียตะวันออกเฉียงใต้"
+  },
+  "lang": {
+    "label": "ภาษา",
+    "names": {
+      "en": "English",
+      "fr": "Français",
+      "de": "Deutsch",
+      "it": "Italiano",
+      "es": "Español",
+      "pt": "Português",
+      "th": "ไทย",
+      "ru": "Русский",
+      "zh": "中文",
+      "ar": "العربية"
+    }
+  },
+  "nav": {
+    "brand": "โพรพิช เอเชีย",
+    "kickoff": "0' คิกออฟ",
+    "advisory": "ที่ปรึกษา 25 ฟุต",
+    "international": "50' นานาชาติ",
+    "ventures": "65' กิจการ",
+    "experiences": "ประสบการณ์ 80'",
+    "fulltime": "90′ เต็มเวลา"
+  },
+  "hero": {
+    "eyebrow": "ภาพรวมบริษัทที่เป็นความลับ",
+    "titleHtml": "เชื่อมต่อ<br>ฟุตบอลชั้นยอด<br>กับ <em>เอเชียตะวันออกเฉียงใต้</em>",
+    "badge": "ฟุตบอลชั้นยอด โอกาสระดับภูมิภาค",
+    "scroll": "เลื่อนเพื่อคิกออฟ"
+  },
+  "whyAsia": {
+    "eyebrow": "ทำไมต้องเอเชียตะวันออกเฉียงใต้",
+    "title": "สร้างอนาคตของฟุตบอลในเอเชีย",
+    "p1": "เอเชียตะวันออกเฉียงใต้มีดัชนีแฟนบอลยุโรปมากเกินไปแล้ว — แค่ดูจากภายนอกเท่านั้น ProPitch Asia ก่อตั้งขึ้นเพื่อเปลี่ยนผู้ชมให้เป็นโครงสร้างพื้นฐาน: สิ่งอำนวยความสะดวก เส้นทาง ความร่วมมือ และโครงการที่สร้างขึ้นร่วมกับภูมิภาคแทนที่จะขายให้กับภูมิภาค",
+    "p2": "เราทำงานในสี่แผนก — การให้คำปรึกษา การดำเนินงานระหว่างประเทศ การลงทุน และประสบการณ์ — เพื่อให้สโมสร สหพันธ์ หรือนักลงทุนสามารถเข้าสู่ภูมิภาคผ่านประตูใดก็ได้ที่เหมาะกับความทะเยอทะยานของพวกเขา",
+    "stat1Lbl": "แฟนฟุตบอลทั่วประเทศไทย มาเลเซีย อินโดนีเซีย ฟิลิปปินส์ เวียดนาม และสิงคโปร์",
+    "stat1Src": "ข้อมูลเชิงลึกของแฟนนีลเส็น",
+    "stat2Lbl": "ยอดผู้ชมทีวีพรีเมียร์ลีกสะสมทั่วภูมิภาค ฤดูกาล 2021/22",
+    "stat2Src": "นีลเซ่น",
+    "stat3Lbl": "ทุกแมตช์พรีเมียร์ลีกถ่ายทอดสดทั่วทั้ง 6 ตลาดเอเชียตะวันออกเฉียงใต้",
+    "stat3Src": "นีลเส็น, 2022",
+    "stat4Lbl": "ประชากรรวมกันทั่วอาเซียน - คนหนุ่มสาว ชอบอุปกรณ์เคลื่อนที่เป็นหลัก และมีความรู้ด้านฟุตบอล",
+    "stat4Src": "ประมาณการของสหประชาชาติ/อาเซียน"
+  },
+  "advisory": {
+    "eyebrow": "ที่ปรึกษาข้อเสนอ",
+    "title": "ให้คำปรึกษาด้านสิ่งอำนวยความสะดวกและการพัฒนาฟุตบอล",
+    "intro": "จากสนามระดับโลกไปจนถึงความร่วมมือระดับโลก เราให้คำแนะนำแก่สโมสร สหพันธ์ และนักลงทุนเกี่ยวกับโครงสร้างพื้นฐานและเส้นทางฟุตบอลชั้นยอดที่ถูกสร้างขึ้น",
+    "tag1": "// การวางแผนหลัก",
+    "h1": "การออกแบบสนามและสถานที่ฝึกซ้อม",
+    "p1": "ข้อกำหนดพื้นผิว การระบายน้ำ สปอตไลต์ และแผนผังพื้นที่ทางเทคนิคสำหรับสนามฝึกซ้อมและสถานศึกษา",
+    "tag2": "// เส้นทาง",
+    "h2": "หลักสูตรของสถาบันและการศึกษาของโค้ช",
+    "p2": "หลักสูตรกลุ่มอายุ เส้นทางการออกใบอนุญาตโค้ช และกรอบการทำงานตามระยะเวลาที่สร้างขึ้นสำหรับสหพันธ์ท้องถิ่น",
+    "tag3": "// การปฏิบัติตาม",
+    "h3": "การปฏิบัติตามใบอนุญาตและสหพันธ์",
+    "p3": "การออกใบอนุญาตของสโมสร กฎระเบียบประเภทเยาวชน และการสนับสนุนการปฏิบัติตามข้อกำหนดของ AFC/องค์กรระดับภูมิภาค",
+    "tag4": "// รหัสผู้มีความสามารถ",
+    "h4": "การสร้างเครือข่ายลูกเสือ",
+    "p4": "ระบบการระบุผู้มีความสามารถระดับภูมิภาค โครงสร้างการทดลอง และช่องทางข้อมูลสำหรับทีมสรรหาบุคลากร",
+    "tag5": "// ห้างหุ้นส่วน",
+    "h5": "ที่ปรึกษาด้านหุ้นส่วนและผู้สนับสนุน",
+    "p5": "การจัดโครงสร้างสโมสร ชุดแข่ง และพันธมิตรผู้สนับสนุนตำแหน่ง และเชื่อมโยงแบรนด์ระดับภูมิภาคกับทรัพย์สินทางฟุตบอลที่เหมาะสมทั่วทั้งภูมิภาค"
+  },
+  "international": {
+    "eyebrow": "โพรพิช อินเตอร์เนชั่นแนล",
+    "title": "ทัวร์สโมสร แคมป์ และการแข่งขันนิทรรศการ",
+    "intro": "เมื่อฟุตบอลโลกมาบรรจบกับเอเชีย เราวางแผนและนำเสนอโปรแกรมภาคสนาม ทีละตลาด",
+    "onTour": "ออนทัวร์",
+    "tourKicker": "การท่องเที่ยว",
+    "tourTitle": "ทัวร์สโมสรปรีซีซั่น",
+    "tourDesc": "แผนการเดินทางหลายเมืองพร้อมเซสชันการฝึกอบรมที่เปิดให้สถาบันการศึกษาในท้องถิ่น",
+    "tourMeta": "3–5 เมือง · 7–10 วัน",
+    "campKicker": "ค่าย",
+    "campTitle": "ค่ายเยาวชนหัวกะทิ",
+    "campDesc": "ค่ายที่ได้รับการรับรองจากสหพันธ์จะดำเนินการตามหลักสูตรการฝึกสอนของสโมสรเยือน",
+    "campMeta": "5 ตลาด · ตลอดทั้งปี",
+    "exhbKicker": "EXHB",
+    "exhbTitle": "นิทรรศการและการแข่งขันระดับตำนาน",
+    "exhbDesc": "ความร่วมมือด้านสนามกีฬา การดำเนินงานในวันแข่งขัน และการประสานงานด้านการออกอากาศ",
+    "exhbMeta": "เมืองเดียว · ตั๋วแล้ว",
+    "schlKicker": "สชล",
+    "schlTitle": "ประชาสัมพันธ์โรงเรียนและระดับรากหญ้า",
+    "schlDesc": "เซสชันของชุมชนจัดขึ้นควบคู่ไปกับทัวร์ แคมป์ และนิทรรศการทุกครั้ง",
+    "schlMeta": "กำลังดำเนินการอยู่"
+  },
+  "ventures": {
+    "eyebrow": "ข้อเสนอการลงทุน",
+    "title": "โครงการ ความร่วมมือ และการลงทุน",
+    "intro": "การพัฒนาฟุตบอลไร้พรมแดน - ด้านการจัดการข้อตกลงของธุรกิจ ตั้งแต่การร่วมทุนด้านสิ่งอำนวยความสะดวกไปจนถึงการจัดรูปแบบ IP",
+    "v1Title": "กิจการร่วมค้าในพื้นที่ฝึกอบรม",
+    "v1Desc": "การพัฒนาสิ่งอำนวยความสะดวกร่วมกับผู้ถือครองที่ดินและสหพันธ์ท้องถิ่น",
+    "v1Status": "โครงสร้าง",
+    "v2Title": "โครงสร้างการออกอากาศและสิทธิ์สื่อ",
+    "v2Desc": "บรรจุภัณฑ์สิทธิ์ระดับภูมิภาคสำหรับเนื้อหาสโมสรและรูปแบบ",
+    "v2Status": "คล่องแคล่ว",
+    "v3Title": "ผู้ถือหุ้นส่วนน้อยในสโมสรและสถาบันการศึกษาระดับภูมิภาค",
+    "v3Desc": "ทุนระยะยาวควบคู่ไปกับพันธมิตรที่ดำเนินงาน",
+    "v3Status": "การประเมิน",
+    "v4Title": "รูปแบบ IP – ล่าดาราฟุตบอลอาเซียน",
+    "v4Desc": "รูปแบบรายการโทรทัศน์ค้นหาผู้มีความสามารถ ดูประสบการณ์ด้านล่าง",
+    "v4Status": "คล่องแคล่ว"
+  },
+  "experiences": {
+    "eyebrow": "ประสบการณ์การนำเสนอ",
+    "title": "กิจกรรมและโปรแกรมฟุตบอลระดับพรีเมียม",
+    "intro": "ที่ที่ผู้ชมพบกับเกม - การต้อนรับในวันแข่งขัน เทศกาล และรูปแบบภูมิภาคที่สำคัญของเรา",
+    "flagshipTag": "รูปแบบเรือธง",
+    "conceptEyebrow": "แนวคิดที่เป็นความลับ · ในการพัฒนา",
+    "starHuntTitleHtml": "ฟุตบอลอาเซียน<br>สตาร์ฮันท์",
+    "starHuntDesc": "สโมสรแห่งหนึ่ง ห้าชาติ. ค้นหานักฟุตบอลอาชีพคนต่อไปของเอเชียตะวันออกเฉียงใต้แบบสดๆ ที่จะจบลงบนเวทีที่ใหญ่ที่สุดในภูมิภาค",
+    "chipThailand": "ประเทศไทย",
+    "chipMalaysia": "มาเลเซีย",
+    "chipIndonesia": "อินโดนีเซีย",
+    "chipPhilippines": "ฟิลิปปินส์",
+    "chipVietnam": "เวียดนาม",
+    "chipFinal": "สุดท้าย · สิงคโปร์",
+    "prog1Title": "การต้อนรับระดับพรีเมียมในวันแข่งขัน",
+    "prog1Desc": "โปรแกรมการแข่งขันที่คัดสรรมาสำหรับพันธมิตรและผู้สนับสนุนการแข่งขันที่ใหญ่ที่สุดของภูมิภาค",
+    "prog2Title": "เทศกาลระดับรากหญ้า",
+    "prog2Desc": "เทศกาลชุมชนหลายสโมสรจัดขึ้นควบคู่ไปกับทัวร์ แคมป์ และความร่วมมือด้านสถาบันการศึกษา",
+    "prog3Title": "การแลกเปลี่ยนโค้ชและลูกเสือ",
+    "prog3Desc": "ตำแหน่งระยะสั้นที่เชื่อมโยงเจ้าหน้าที่ฝึกสอนระดับภูมิภาคกับสถาบันการศึกษาพันธมิตรในยุโรป"
+  },
+  "contact": {
+    "eyebrow": "90′ · เต็มเวลา",
+    "titleHtml": "มาเริ่ม<br>การนำเสนอกันเถอะ",
+    "intro": "ไม่ว่าจะเป็นแผนแม่บทด้านสิ่งอำนวยความสะดวก แผนการเดินทางทัวร์ ความร่วมมือ หรือซีซั่นหน้าของ Star Hunt บอกเราว่าแผนกไหนเหมาะกับ แล้วเราจะดำเนินการต่อจากที่นั่น",
+    "ctaEmail": "อีเมล์ HELLO@PROPITCH.ASIA",
+    "ctaBack": "กลับสู่คิกออฟ",
+    "faqEyebrow": "คำถามที่พบบ่อย",
+    "faq1Q": "โปรพิทช์ เอเชีย คืออะไร?",
+    "faq1A": "กลุ่มในกรุงเทพฯ ที่เชื่อมโยงฟุตบอลยุโรปชั้นนำเข้ากับเอเชียตะวันออกเฉียงใต้ สิ่งอำนวยความสะดวก เส้นทาง ความร่วมมือ และโครงการที่สร้างขึ้นร่วมกับภูมิภาค ไม่ได้ขายให้กับภูมิภาคนี้",
+    "faq2Q": "สี่แผนกคืออะไร?",
+    "faq2A": "การให้คำปรึกษา (การให้คำปรึกษาด้านสิ่งอำนวยความสะดวกและการพัฒนา) ระหว่างประเทศ (ทัวร์ แคมป์ การแข่งขันนิทรรศการ) กิจการร่วมค้า (ความร่วมมือและการลงทุน) และประสบการณ์ (กิจกรรมและโปรแกรมระดับพรีเมียม)",
+    "faq3Q": "มันมีไว้สำหรับใคร?",
+    "faq3A": "สโมสร สหพันธ์ นักลงทุน และแบรนด์ต่างๆ ที่กำลังมองหาการเข้าสู่วงการฟุตบอลเอเชียตะวันออกเฉียงใต้อย่างมีโครงสร้าง ผ่านการให้คำปรึกษา การดำเนินงาน ข้อตกลง หรือโปรแกรมแบบพบปะแฟนๆ",
+    "faq4Q": "เราจะติดต่อได้อย่างไร?",
+    "faq4Html": "ส่งอีเมลถึง <a href=\"mailto:hello@propitch.asia\">hello@propitch.asia</a> และตั้งชื่อแผนกที่ตรงกับบรีฟของคุณ",
+    "companyEyebrow": "โพรพิช เอเชีย บจก.",
+    "phone": "+66 [ office line — อัปเดตก่อนเปิดตัว ]",
+    "linkedin": "[ LinkedIn — เพิ่ม URL เมื่อถ่ายทอดสด ]",
+    "office": "สำนักงานจดทะเบียน กรุงเทพมหานคร ประเทศไทย"
+  },
+  "footer": {
+    "motto": "การพัฒนาฟุตบอลไร้พรมแดน",
+    "divisions": "ที่ปรึกษา · ระหว่างประเทศ · การลงทุน · ประสบการณ์ · © PROPITCH ASIA CO., LTD."
+  },
+  "schemaJson": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://propitch-asia.pages.dev/#organization",
+        "name": "ProPitch Asia Co., Ltd.",
+        "url": "https://propitch-asia.pages.dev/",
+        "email": "hello@propitch.asia",
+        "description": "ProPitch Asia connects elite football with Southeast Asia through advisory, international operations, ventures and premium experiences.",
+        "areaServed": [
+          "Thailand",
+          "Southeast Asia"
+        ],
+        "knowsAbout": [
+          "Football development",
+          "Sports facilities",
+          "Club tours",
+          "Football partnerships",
+          "Southeast Asia"
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://propitch-asia.pages.dev/#website",
+        "url": "https://propitch-asia.pages.dev/",
+        "name": "ProPitch Asia",
+        "publisher": {
+          "@id": "https://propitch-asia.pages.dev/#organization"
+        },
+        "inLanguage": "th"
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://propitch-asia.pages.dev/#webpage",
+        "url": "https://propitch-asia.pages.dev/",
+        "name": "ProPitch Asia — Connecting elite football with Southeast Asia",
+        "isPartOf": {
+          "@id": "https://propitch-asia.pages.dev/#website"
+        },
+        "about": {
+          "@id": "https://propitch-asia.pages.dev/#organization"
+        },
+        "inLanguage": "th",
+        "description": "Company overview: advisory, international, ventures and experiences divisions for football in Southeast Asia."
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://propitch-asia.pages.dev/#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is ProPitch Asia?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "ProPitch Asia is a Bangkok-based group that connects elite European football with Southeast Asia — turning regional fandom into infrastructure: facilities, pathways, partnerships and programming built with the region."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What divisions does ProPitch Asia operate?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Four divisions: ProPitch Advisory (facility and football-development consulting), ProPitch International (club tours, camps and exhibition matches), ProPitch Ventures (projects, partnerships and investments), and ProPitch Experiences (events and premium football programmes)."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Where does ProPitch Asia work?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The company is focused on Southeast Asia, with operations and partnerships across the region and a registered office in Bangkok, Thailand."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How can clubs or investors contact ProPitch Asia?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Email hello@propitch.asia with the division that fits your goals — advisory, international, ventures or experiences — and the team will follow up."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "title": "ProPitch Asia — Connecting elite football with Southeast Asia",
+    "description": "ProPitch Asia connects elite European football with Southeast Asia through advisory, international tours, ventures and premium experiences — facilities, pathways and partnerships built with the region.",
+    "ogDescription": "Advisory, international operations, ventures and experiences — football development infrastructure for Southeast Asia."
+  },
+  "lang": {
+    "label": "Language",
+    "names": {
+      "en": "English",
+      "fr": "Français",
+      "de": "Deutsch",
+      "it": "Italiano",
+      "es": "Español",
+      "pt": "Português",
+      "th": "ไทย",
+      "ru": "Русский",
+      "zh": "中文",
+      "ar": "العربية"
+    }
+  },
+  "nav": {
+    "brand": "PROPITCH ASIA",
+    "kickoff": "0′ KICKOFF",
+    "advisory": "25′ ADVISORY",
+    "international": "50′ INT'L",
+    "ventures": "65′ VENTURES",
+    "experiences": "80′ EXPERIENCES",
+    "fulltime": "90′ FULL TIME"
+  },
+  "hero": {
+    "eyebrow": "CONFIDENTIAL COMPANY OVERVIEW",
+    "titleHtml": "CONNECTING<br>ELITE FOOTBALL<br>WITH <em>SOUTHEAST ASIA.</em>",
+    "badge": "ELITE FOOTBALL. REGIONAL OPPORTUNITY.",
+    "scroll": "SCROLL FOR KICKOFF"
+  },
+  "whyAsia": {
+    "eyebrow": "WHY SOUTHEAST ASIA",
+    "title": "Building the future of football in Asia.",
+    "p1": "Southeast Asia already over-indexes on European football fandom — it just watches from the outside. ProPitch Asia exists to turn that audience into infrastructure: facilities, pathways, partnerships and programming built with the region rather than sold into it.",
+    "p2": "We work across four divisions — advisory, international operations, ventures and experiences — so a club, federation or investor can enter the region through whichever door fits their ambitions.",
+    "stat1Lbl": "Football fans across Thailand, Malaysia, Indonesia, the Philippines, Vietnam & Singapore",
+    "stat1Src": "Nielsen Fan Insights",
+    "stat2Lbl": "Cumulative Premier League TV audience across the region, 2021/22 season",
+    "stat2Src": "Nielsen",
+    "stat3Lbl": "Every Premier League match broadcast live across six SEA markets",
+    "stat3Src": "Nielsen, 2022",
+    "stat4Lbl": "Combined population across ASEAN — young, mobile-first, football-literate",
+    "stat4Src": "UN / ASEAN Estimates"
+  },
+  "advisory": {
+    "eyebrow": "PROPITCH ADVISORY",
+    "title": "Facility & football-development consulting",
+    "intro": "From world-class pitches to world-class partnerships — we advise clubs, federations and investors on the infrastructure and pathways elite football is built on.",
+    "tag1": "// MASTERPLANNING",
+    "h1": "Pitch & training-facility design",
+    "p1": "Surface specification, drainage, floodlighting and technical-area layout for training grounds and academies.",
+    "tag2": "// PATHWAYS",
+    "h2": "Academy curriculum & coach education",
+    "p2": "Age-group curricula, coach licensing pathways and periodisation frameworks built for local federations.",
+    "tag3": "// COMPLIANCE",
+    "h3": "Licensing & federation compliance",
+    "p3": "Club licensing, youth-category regulation and AFC/regional-body compliance support.",
+    "tag4": "// TALENT ID",
+    "h4": "Scouting network build-out",
+    "p4": "Regional talent identification systems, trial structures and data pipelines for recruitment teams.",
+    "tag5": "// PARTNERSHIPS",
+    "h5": "Partnership & Sponsorship Consultants",
+    "p5": "Structuring club, kit and title-sponsor partnerships, and connecting regional brands with the right football properties across the region."
+  },
+  "international": {
+    "eyebrow": "PROPITCH INTERNATIONAL",
+    "title": "Club tours, camps & exhibition matches",
+    "intro": "Where world football meets Asia — we plan and deliver the on-the-ground programme, market by market.",
+    "onTour": "ON TOUR",
+    "tourKicker": "TOUR",
+    "tourTitle": "Pre-season club tours",
+    "tourDesc": "Multi-city itineraries with training sessions open to local academies.",
+    "tourMeta": "3–5 CITIES · 7–10 DAYS",
+    "campKicker": "CAMP",
+    "campTitle": "Elite youth camps",
+    "campDesc": "Federation-endorsed camps run to the visiting club's own coaching curriculum.",
+    "campMeta": "5 MARKETS · YEAR-ROUND",
+    "exhbKicker": "EXHB",
+    "exhbTitle": "Exhibition & legends matches",
+    "exhbDesc": "Stadium partnerships, matchday operations and broadcast coordination.",
+    "exhbMeta": "SINGLE-CITY · TICKETED",
+    "schlKicker": "SCHL",
+    "schlTitle": "School & grassroots outreach",
+    "schlDesc": "Community sessions run alongside every tour, camp and exhibition leg.",
+    "schlMeta": "ONGOING"
+  },
+  "ventures": {
+    "eyebrow": "PROPITCH VENTURES",
+    "title": "Projects, partnerships & investments",
+    "intro": "Football development without borders — the deal-flow side of the business, from facility joint ventures to format IP.",
+    "v1Title": "Training-ground joint ventures",
+    "v1Desc": "Facility development with local landholders & federations",
+    "v1Status": "STRUCTURING",
+    "v2Title": "Broadcast & media-rights structuring",
+    "v2Desc": "Regional rights packaging for club & format content",
+    "v2Status": "ACTIVE",
+    "v3Title": "Minority stakes in regional clubs & academies",
+    "v3Desc": "Long-term capital alongside operating partners",
+    "v3Status": "EVALUATING",
+    "v4Title": "Format IP — ASEAN Football Star Hunt",
+    "v4Desc": "Talent-search television format, see Experiences below",
+    "v4Status": "ACTIVE"
+  },
+  "experiences": {
+    "eyebrow": "PROPITCH EXPERIENCES",
+    "title": "Events & premium football programmes",
+    "intro": "Where the audience meets the game — matchday hospitality, festivals and our flagship regional format.",
+    "flagshipTag": "FLAGSHIP FORMAT",
+    "conceptEyebrow": "CONFIDENTIAL CONCEPT · IN DEVELOPMENT",
+    "starHuntTitleHtml": "ASEAN Football<br>Star Hunt",
+    "starHuntDesc": "One club. Five nations. A live search for Southeast Asia's next professional footballer — ending on the biggest stage the region has to offer.",
+    "chipThailand": "THAILAND",
+    "chipMalaysia": "MALAYSIA",
+    "chipIndonesia": "INDONESIA",
+    "chipPhilippines": "PHILIPPINES",
+    "chipVietnam": "VIETNAM",
+    "chipFinal": "FINAL · SINGAPORE",
+    "prog1Title": "Premium matchday hospitality",
+    "prog1Desc": "Curated matchday programmes for partners and sponsors across the region's biggest fixtures.",
+    "prog2Title": "Grassroots festivals",
+    "prog2Desc": "Multi-club community festivals run alongside tours, camps and academy partnerships.",
+    "prog3Title": "Coach & scout exchange",
+    "prog3Desc": "Short-term placements connecting regional coaching staff with partner academies in Europe."
+  },
+  "contact": {
+    "eyebrow": "90′ · FULL TIME",
+    "titleHtml": "Let's take<br>the pitch.",
+    "intro": "Whether it's a facility masterplan, a tour itinerary, a partnership or the next season of Star Hunt — tell us which division fits, and we'll take it from there.",
+    "ctaEmail": "EMAIL HELLO@PROPITCH.ASIA",
+    "ctaBack": "BACK TO KICKOFF",
+    "faqEyebrow": "FREQUENTLY ASKED",
+    "faq1Q": "What is ProPitch Asia?",
+    "faq1A": "A Bangkok-based group connecting elite European football with Southeast Asia — facilities, pathways, partnerships and programming built with the region, not sold into it.",
+    "faq2Q": "What are the four divisions?",
+    "faq2A": "Advisory (facility and development consulting), International (tours, camps, exhibition matches), Ventures (partnerships and investments), and Experiences (events and premium programmes).",
+    "faq3Q": "Who is it for?",
+    "faq3A": "Clubs, federations, investors and brands seeking a structured entry into Southeast Asian football across advisory, operations, deal-flow or fan-facing programming.",
+    "faq4Q": "How do we get in touch?",
+    "faq4Html": "Email <a href=\"mailto:hello@propitch.asia\">hello@propitch.asia</a> and name the division that matches your brief.",
+    "companyEyebrow": "PROPITCH ASIA CO., LTD.",
+    "phone": "+66 [ office line — update before launch ]",
+    "linkedin": "[ LinkedIn — add URL when live ]",
+    "office": "Registered office, Bangkok, Thailand"
+  },
+  "footer": {
+    "motto": "FOOTBALL DEVELOPMENT WITHOUT BORDERS.",
+    "divisions": "ADVISORY · INTERNATIONAL · VENTURES · EXPERIENCES · © PROPITCH ASIA CO., LTD."
+  },
+  "schemaJson": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://propitch-asia.pages.dev/#organization",
+        "name": "ProPitch Asia Co., Ltd.",
+        "url": "https://propitch-asia.pages.dev/",
+        "email": "hello@propitch.asia",
+        "description": "ProPitch Asia connects elite football with Southeast Asia through advisory, international operations, ventures and premium experiences.",
+        "areaServed": [
+          "Thailand",
+          "Southeast Asia"
+        ],
+        "knowsAbout": [
+          "Football development",
+          "Sports facilities",
+          "Club tours",
+          "Football partnerships",
+          "Southeast Asia"
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://propitch-asia.pages.dev/#website",
+        "url": "https://propitch-asia.pages.dev/",
+        "name": "ProPitch Asia",
+        "publisher": {
+          "@id": "https://propitch-asia.pages.dev/#organization"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://propitch-asia.pages.dev/#webpage",
+        "url": "https://propitch-asia.pages.dev/",
+        "name": "ProPitch Asia — Connecting elite football with Southeast Asia",
+        "isPartOf": {
+          "@id": "https://propitch-asia.pages.dev/#website"
+        },
+        "about": {
+          "@id": "https://propitch-asia.pages.dev/#organization"
+        },
+        "inLanguage": "en",
+        "description": "Company overview: advisory, international, ventures and experiences divisions for football in Southeast Asia."
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://propitch-asia.pages.dev/#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is ProPitch Asia?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "ProPitch Asia is a Bangkok-based group that connects elite European football with Southeast Asia — turning regional fandom into infrastructure: facilities, pathways, partnerships and programming built with the region."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What divisions does ProPitch Asia operate?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Four divisions: ProPitch Advisory (facility and football-development consulting), ProPitch International (club tours, camps and exhibition matches), ProPitch Ventures (projects, partnerships and investments), and ProPitch Experiences (events and premium football programmes)."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Where does ProPitch Asia work?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The company is focused on Southeast Asia, with operations and partnerships across the region and a registered office in Bangkok, Thailand."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How can clubs or investors contact ProPitch Asia?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Email hello@propitch.asia with the division that fits your goals — advisory, international, ventures or experiences — and the team will follow up."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
